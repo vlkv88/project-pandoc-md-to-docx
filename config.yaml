@@ -1,0 +1,16 @@
+metadata:
+  bibliography: "bibliography.bib"
+  link-citations: true
+  urlcolor: "blue"
+  csl: "gost.csl"
+  abstract-title: false
+  figureTitle: Рисунок 
+  figPrefix:
+  tableTitle: Таблица 
+  tblPrefix:
+  equality:
+  eqnRef: "({{eq}})" 
+  eqPrefix: ss
+  secHeaderDelim: ". "
+  titleDelim:  – 
+  number-sections: true
