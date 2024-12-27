@@ -8,9 +8,8 @@ metadata:
   figPrefix:
   tableTitle: Таблица 
   tblPrefix:
-  equality:
-  eqnRef: "({{eq}})" 
-  eqPrefix: ss
+  autoEqnLabels: true
+  eqnPrefix: 
   secHeaderDelim: ". "
   titleDelim:  – 
   number-sections: true
